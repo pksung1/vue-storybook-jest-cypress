@@ -1,4 +1,4 @@
-# vue-storybook-cypress
+# vue-storybook-jest-cypress
 
 ## Project setup
 ```
