@@ -1,0 +1,16 @@
+:root {
+  --main-bg: #F0DD90;
+  --mint: #C0F0CF;
+  --blue: #9094F0;
+  --red: #F09E9C;
+  --yellow: #F0E1A8;
+  --white: #FFFDDB;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
